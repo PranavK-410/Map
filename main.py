@@ -22,7 +22,7 @@ except ImportError:
 DEBUG = True
 app = Flask(__name__)
 
-GOOGLE_API_KEY = AIzaSyA06AKTdrA3-Miuz3suPJEjdP9aT4zyRBY
+GOOGLE_API_KEY = AIzaSyC1K6LhcnXGrCGpmmbbw67hTYoKaAz5_hU
 # https://github.com/Yelp/yelp-fusion/blob/master/fusion/python/sample.py
 YELP_API_KEY = "ieU1yQdIs7qVxLXEqWgcvXyDg9yUc1NJ6SSdnpipyoYgURusjhka4Txp-eyy0X9ZJEQGjgv1Vzb7Ym4w_2gmNrj6iKb-n7xGRzQl80awwcYzPVBxQWuqvQwxLoqRXnYx"
 # API constants, you shouldn't have to change these.
