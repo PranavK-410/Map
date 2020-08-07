@@ -4,4 +4,3 @@ Easily Extend your Python ML Models into Interactive Web Applications - Let's bu
 
 Full code for walkthrough blog entry: http://amunategui.github.io/rapid-prototyping-app-engine-yelp
 
-kkkk
